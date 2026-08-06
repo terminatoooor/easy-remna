@@ -22,10 +22,7 @@
 
 روی سرورت این دستورات رو اجرا کن:
 
-```bash
-curl -O https://raw.githubusercontent.com/terminatoooor/easy-remna/main/node-manager.sh
-chmod +x node-manager.sh
-sudo ./node-manager.sh
+```bash <(curl -Ls https://raw.githubusercontent.com/terminatoooor/easy-remna/main/node-manager.sh)
 ```
 
 ## 📖 راهنمای استفاده
